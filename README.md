@@ -10,3 +10,5 @@
 
 ## vagrant-finish
 本題2が終了した時点でのVagrantfile
+
+    # gpasswd -a $USER docker
