@@ -1,6 +1,5 @@
 # qiita-vagrant-docker
-これはqiita：VagrantとDockerでスマホからでも見れるWEB環境を手に入れる<br>
-で説明用に使用したリポジトリである。
+これはqiita：VagrantとDockerでスマホからでも見れるWEB環境を手に入れる、で説明用に使用したリポジトリである。
 
 ## vagrant-init
 下準備が完了した時点でのVagrantfile
