@@ -1,5 +1,5 @@
 # qiita-vagrant-docker
-これはqiita：VagrantとDockerでLAN環境を手に入れる
+これはqiita：VagrantとDockerでスマホからでも見れるWEB環境を手に入れる<br>
 で説明用に使用したリポジトリである。
 
 ## vagrant-init
@@ -10,5 +10,3 @@
 
 ## vagrant-finish
 本題2が終了した時点でのVagrantfile
-
-    # gpasswd -a $USER docker
